@@ -26,7 +26,7 @@ If you have matching device - connect it and run the code. Under Linux will have
 Recent changes
 --------------
 * made Python3 compatible (replace xrange)
-* added configuration for h2w (needs change in mapping)
+* added configuration for h2w barcode scanner (needs change in mapping)
 
 
 PyQt4 application example
