@@ -23,6 +23,11 @@ There are device examples:
 
 If you have matching device - connect it and run the code. Under Linux will have to run the code as root/sudo or give your user permission to access given device.
 
+Recent changes
+--------------
+* made Python3 compatible (replace xrange)
+* added configuration for h2w (needs change in mapping)
+
 
 PyQt4 application example
 -------------------------
@@ -86,3 +91,4 @@ You can visit my sites for more tutorials and stuff:
 Credits
 -------
 * The code was based on https://github.com/guyzmo/tmsr33-pyusb by Guyzmo Pratz
+* The code was forked from Piotr Maliński, riklaunim/pyusb-keyboard-alike
